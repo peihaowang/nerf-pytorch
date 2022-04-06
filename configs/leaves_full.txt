@@ -1,6 +1,6 @@
-expname = orchids_full
+expname = leaves_full
 basedir = ./logs
-datadir = ./datasets/nerf_llff_data/orchids
+datadir = ./datasets/nerf_llff_data/leaves
 dataset_type = llff
 
 factor = 4
@@ -13,3 +13,4 @@ N_importance = 128
 
 use_viewdirs = True
 raw_noise_std = 1e0
+

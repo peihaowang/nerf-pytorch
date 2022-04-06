@@ -1,6 +1,6 @@
-expname = ship_full
+expname = drums_full
 basedir = ./logs
-datadir = ./datasets/nerf_synthetic/ship
+datadir = ./datasets/nerf_synthetic/drums
 dataset_type = blender
 
 no_batching = True

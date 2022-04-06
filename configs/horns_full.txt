@@ -6,9 +6,10 @@ dataset_type = llff
 factor = 4
 llffhold = 8
 
-N_rand = 1024
+N_iters = 300000
+N_rand = 4096
 N_samples = 64
-N_importance = 64
+N_importance = 128
 
 use_viewdirs = True
 raw_noise_std = 1e0
