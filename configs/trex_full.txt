@@ -1,4 +1,4 @@
-expname = trex_test
+expname = trex_full
 basedir = ./logs
 datadir = ./datasets/nerf_llff_data/trex
 dataset_type = llff

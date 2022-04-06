@@ -1,4 +1,4 @@
-expname = horns_test
+expname = horns_full
 basedir = ./logs
 datadir = ./datasets/nerf_llff_data/horns
 dataset_type = llff

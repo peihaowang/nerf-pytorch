@@ -135,7 +135,7 @@ def create_arg_parser():
     parser.add_argument("--no_viewdirs", action='store_false', dest='use_viewdirs',
                         help='disable full 5D input, using 3D without view dependency')
     parser.set_defaults(use_viewdirs=True)
-    parser.add_argument("--mipnerf", action='store_true', default=True, 
+    parser.add_argument("--mipnerf", action='store_true', default=False, 
                         help='use mipnerf model')
     parser.add_argument("--use_embed", action='store_true', default=True, 
                         help='turn on positional encoding')

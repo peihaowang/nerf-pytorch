@@ -1,4 +1,4 @@
-expname = orchids_test
+expname = orchids_full
 basedir = ./logs
 datadir = ./datasets/nerf_llff_data/orchids
 dataset_type = llff
